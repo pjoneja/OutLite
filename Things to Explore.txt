@@ -1,0 +1,19 @@
+Here are some websites you might want to look into:
+
+https://developer.bluetooth.org/pages/smart-starter-kit.aspx
+http://www.p3international.com/products/p4400.html
+http://en.wikipedia.org/wiki/Electricity_meter
+
+First website corresponds to Bluetooth development.
+The rest deals with electricity meter, which deals with keeping track of the electricity used.
+
+I briefly looked into it, and I'm not sure if we can just include it at low price for our product.
+
+For our prototype, here are some of my suggestions:
+
+1. We first primarily focus on the very basic - I/O system that severes the electricity when Bluetooth is disconnected between the outlet and the smartphone
+2. We might want to first make it a physical feature for customers to use the outlet as "smart outlet" or "normal outlet" I am not sure if we can get it using apps and stuff, since I am not even sure if we can make an app that will work with the outlet if it does not run on Wi-Fi.
+
+As for the customer, I think it is best to put it on the Cooper Union group first. I might try to talk to a person I know at NYU to put it up at their group as well.
+
+David
