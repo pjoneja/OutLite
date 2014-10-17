@@ -17,3 +17,14 @@ New site has been moved to http://outlite.pancakeapps.com. All HTML/CSS code for
 We are meeting on Friday @ 4pm to fine tune the site for launch as well as begin working on our midterm presentation. 
 
 -Pranav
+=====================
+Oct 17, 2014:
+
+Meeting Agenda:
+-Comparison Matrix
+-Finish website
+-Begin planning presentation
+
+
+
+Next Meeting is:
