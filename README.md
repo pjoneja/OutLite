@@ -24,7 +24,13 @@ Meeting Agenda:
 -Comparison Matrix
 -Finish website
 -Begin planning presentation
+-Pseudo-Code 
 
+
+Other things to consider:
+-Logo (L inside O)
+-remove made for humans
 
 
 Next Meeting is:
+Sunday, Oct 19th. Time TBA (Krishna). We will discuss the presentation ONLY.
