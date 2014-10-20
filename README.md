@@ -34,3 +34,17 @@ Other things to consider:
 
 Next Meeting is:
 Sunday, Oct 19th. Time TBA (Krishna). We will discuss the presentation ONLY.
+
+-Pranav
+=====================
+Oct 19, 2014:
+
+Comparison Matrix done! Meeting about Presentation.
+
+See presentation files in main repo.
+
+Some tinkering with SparkCore. More details coming soon.
+
+Next Meeting is:
+Monday, Oct. 20, with Prof. Petrillo at 12 noon in the adjunct faculty room.
+
