@@ -11,9 +11,21 @@ I briefly looked into it, and I'm not sure if we can just include it at low pric
 
 For our prototype, here are some of my suggestions:
 
-1. We first primarily focus on the very basic - I/O system that severes the electricity when Bluetooth is disconnected between the outlet and the smartphone
-2. We might want to first make it a physical feature for customers to use the outlet as "smart outlet" or "normal outlet" I am not sure if we can get it using apps and stuff, since I am not even sure if we can make an app that will work with the outlet if it does not run on Wi-Fi.
+1. We first primarily focus on the very basic - I/O system that severes the electricity when Bluetooth is disconnected 
+between the outlet and the smartphone.
+2. We might want to first make it a physical feature for customers to use the outlet as "smart outlet" or "normal outlet" 
+I am not sure if we can get it using apps and stuff, since I am not even sure if we can make an app that will work with the outlet
+if it does not run on Wi-Fi.
 
-As for the customer, I think it is best to put it on the Cooper Union group first. I might try to talk to a person I know at NYU to put it up at their group as well.
+As for the customer, I think it is best to put it on the Cooper Union group first.
+I might try to talk to a person I know at NYU to put it up at their group as well.
+
+David
+
+Oct.23 
+
+We successfully presented for our mid term - good job guys!
+After doing the matrix comparison, I feel like low price will have to be one of our "killer" features, 
+even if we need to cut off some of the features of our product.
 
 David
