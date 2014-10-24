@@ -1,6 +1,16 @@
 OutLite
 =====================
 
+This repo contains all the work we have done as a group. The Enclosure Design file is a SolidWorks mockup of what the OutLite’s physical form will look like. The ‘outlite site’ folder contains all the HTML/CSS/JavaScript required for our beta launch site: http://outlite.brace.io . The presentation folder consists of the slides and the script for our midterm presentation. And finally, the comparison matrix is an as-of-yet unreleased, internal document that is guiding our design process, helping us keep track of what our competitors offer and how our device matches up. 
+
+Below is a log of all our meetings thus far.
+
+-Pranav
+
+
+
+Meeting Log:
+
 Okay so we've confirmed that we can all type! :)
 
 Here's something I've been working on this weekend: http://outlet.pancakeapps.com
