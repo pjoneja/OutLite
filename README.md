@@ -53,3 +53,18 @@ Monday, Oct. 20, with Prof. Petrillo at 12 noon in the adjunct faculty room.
 
 -Pranav
 
+Oct 21, 2014:
+=====================
+
+Website address has been moved to http://outlite.brace.io, after realizing that Facebook blocked the pancakeapps.com for whatever reason (Probably due to security reasons)
+
+Launched the beta site! Posted links on Facebook with different bit.ly and goo.gl addresses, to analyze who clicked the links.
+
+-David
+
+Oct 23, 2014:
+====================
+
+So far got about 300 clicks. We might want to post the links on other college groups as well if possible, to get more clicks and feedback.
+
+-David
