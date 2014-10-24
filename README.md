@@ -53,6 +53,11 @@ Monday, Oct. 20, with Prof. Petrillo at 12 noon in the adjunct faculty room.
 
 -Pranav
 
+Currently looking into Bluetooth Technology development to figure out about price.
+We might cut down some features for a cheaper product.
+
+-David
+
 Oct 21, 2014:
 =====================
 
