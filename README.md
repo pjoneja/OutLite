@@ -83,3 +83,12 @@ Oct 23, 2014:
 So far got about 300 clicks. We might want to post the links on other college groups as well if possible, to get more clicks and feedback.
 
 -David
+
+
+Nov 3, 2014:
+====================
+We changed the layout of the site, making it easier for visitors to see the form at the top of the site. This should help us reduce the 'bounce rate' - people who visit the site and click close right away. We want visitors to see more and stay longer!
+
+It's Start Up week at NYU, and we plan to use the new/improved version of the beta site to get even more people signed up for the beta. More importantly, our first round of beta signups are mostly just our friends and they will be more inclined to be nice to us and are probably only interested in seeing what we're up to. We need random strangers who will reflect what the real market looks like.
+
+-Pranav
