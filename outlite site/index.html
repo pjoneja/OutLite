@@ -4,9 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
+    <!---I'm writing a few comments in the code to help others in EID class get started with their own beta site up--->
+    <!---Below, use <title> to give your website a name in the tab. And use shortcut icon to put a little picture icon. Looks profeshhh. -->
     <title>OutLite</title>
     <link rel="shortcut icon" href="./favicon.png">
     
+    <!---I'm using the Bootstrap Framework. www.getbootstrap.com--->
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/main.css" rel="stylesheet">
     
@@ -15,6 +18,7 @@
     
     <script src="/js/jquery.min.js"></script>
     
+    <!---Below is the Google Analytics code. It's a tool to track visitors, where they come from, what they click on, how long they stay on the site etc--->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new   Date();a=s.createElement(o),
@@ -32,8 +36,16 @@
                     <h2><b>Smart</b> Bluetooth <b>Outlet</b></h2>
 					<h3>Turn down for Watt!</h3>
 					<br>
+                    <!---this is code for the embedded form. It's using a free tool called Brace Forms (forms.brace.io). Replace the email address with your own. Style the form inputs to match your site.--->
+                    <form role="form" action="//forms.brace.io/teamoutlite@gmail.com" method="POST">
+                    <input type="text" name="name" placeholder="Name" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
+                    <input type="email" name="_replyto" placeholder="E-mail" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
+                    <input type="submit"  class="btn btn-primary" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:30px; border-radius:16px" value="Join the Beta!">
+                </form>
+                    <br>
 	    		</div>
 	    		
+                <!---"hidden" tags means this stuff is not visible on smaller screen device-->
 	    		<div class="hidden-xs hidden-sm col-md-4 col-lg-4">
 	    			<h3>Small, compact design</h3>
 	    			<p>Fits anywhere you need it</p>
@@ -51,31 +63,10 @@
 	    	</div>
 	    </div> <!--/ .container -->
 
+            <!--"col" tags change the size of the columns for different size devices. On smartphones, it's a list (one column); On tablet, two columns; on laptop/desktop, three columns; This means less scrolling for people with big screens. Simplicity is king-->
         <div class="container">
 			<div class="row centered">
-                <br>
-				<href src=""><button type="button" class="btn btn-primary" style="padding-right:1.5em; padding-left:1.5em; font-size:30px; border-radius:16px" data-toggle="modal" data-target="#beta-modal">Join the beta!</button></href>
-                <!----modal--->
-                <div class="modal fade" id="beta-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                <h4 class="modal-title" id="myModalLabel">Join the beta!</h4>
-                            </div>
-                        <div class="modal-body">
-                            <iframe id="messages-well" src="https://docs.google.com/forms/d/1Yx-l6UT5aPLrMlb1s7BCsm-4lAe-SGqnv6rWXnPUO2w/viewform?embedded=true" class="well well-sm" width="100%" height="600px"></iframe>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                
-                
-				<br>
-				<br>
+				<br><br>
 				<div class="col-sm-6 col-md-4 col-lg-4">
 					<img src="/img/bluetooth.png">
 					<h3>Bluetooth control</h3>
