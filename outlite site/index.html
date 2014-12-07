@@ -4,12 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <!--I'm writing a few comments in the code to help others in EID class get started with their own beta site up-->
-    <!--Below, use <title> to give your website a name in the tab. And use shortcut icon to put a little picture icon. Looks profeshhh.-->
     <title>OutLite</title>
     <link rel="shortcut icon" href="./favicon.png">
     
-    <!---I'm using the Bootstrap Framework. www.getbootstrap.com--->
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/main.css" rel="stylesheet">
     
@@ -18,7 +15,6 @@
     
     <script src="/js/jquery.min.js"></script>
     
-    <!--Below is the Google Analytics code. It's a tool to track visitors, where they come from, what they click on, how long they stay on the site etc-->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new   Date();a=s.createElement(o),
@@ -29,44 +25,37 @@
 </script>
 </head>
 <body>
-	    <div class="container">
 	    	<div class="row centered">
 	    		<div class="col-lg-12">
                     <h1><b>OutLite</b></h1>
                     <h2><b>Smart</b> Bluetooth <b>Outlet</b></h2>
-					<h3>Turn down for Watt!</h3>
-					<br>
-                    <!--this is code for the embedded form. It's using a free tool called Brace Forms (forms.brace.io). Replace the email address with your own. Style the form inputs to match your site.-->
-                    <form role="form" action="//forms.brace.io/teamoutlite@gmail.com" method="POST">
-                    <input type="text" name="name" placeholder="Name" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
-                    <input type="email" name="_replyto" placeholder="E-mail" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
-                    <input type="submit"  class="btn btn-primary" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:30px; border-radius:16px" value="Join the Beta!">
-                </form>
-                    <br>
+					<h3>Turn down for Watt!</h3><br>
 	    		</div>
-	    		
-                <!--"hidden" tags means this stuff is not visible on smaller screen device-->
-	    		<div class="hidden-xs hidden-sm col-md-4 col-lg-4">
+	    		<div class="hidden-xs hidden-sm col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">
 	    			<h3>Small, compact design</h3>
 	    			<p>Fits anywhere you need it</p>
 	    			<img src="/img/arrow1.png">
 	    		</div>
-	    		<div class="col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-0 col-lg-4">
+	    		<div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-0 col-lg-4">
 	    			<img class="img-responsive" src="/img/main.png" style="margin: 0 auto">
 	    		</div>
-	    		<div class="hidden-xs hidden-sm col-md-4 col-lg-4">
+	    		<div class="hidden-xs hidden-sm col-md-2 col-lg-4 col-lg-offset-0">
 	    			<br>
 	    			<img src="/img/arrow2.png">
 	    			<h3>Easy to use</h3>
 	    			<p>1-step installation</p>
 	    		</div>
 	    	</div>
-	    </div> <!--/ .container -->
 
-            <!--"col" tags change the size of the columns for different size devices. On smartphones, it's a list (one column); On tablet, two columns; on laptop/desktop, three columns; This means less scrolling for people with big screens. Simplicity is king-->
         <div class="container">
 			<div class="row centered">
 				<br><br>
+                <form role="form" action="//forms.brace.io/teamoutlite@gmail.com" method="POST">
+                    <input type="text" name="name" placeholder="Name" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
+                    <input type="email" name="_replyto" placeholder="E-mail" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:20px; border-radius:16px"><br>
+                    <input type="submit"  class="btn btn-primary" style="padding-right:1.5em; padding-left:1.5em; margin-top:0.5em; font-size:30px; border-radius:16px" value="Join the Beta!">
+                    <input type="hidden" name="_next" value="//outlite.brace.io/thankyou.html"/></form> 
+                <br>
 				<div class="col-sm-6 col-md-4 col-lg-4">
 					<img src="/img/bluetooth.png">
 					<h3>Bluetooth control</h3>
