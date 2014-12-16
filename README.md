@@ -105,3 +105,5 @@ Many things happenend. I first devised a survey to send to our email subscribers
 Unfortunately, we did not get what we wanted since we did not get anything for third metric. However, we believe this is largely due to nature of the audience have, thus it does not necessarily assure lack of viability of our product in the market. The audience was mostly consisted of Cooper students, half among them from our class. In order to see how our product would do, I believe it is essential to specifically target the customers who are interested in home automation system and/or novel technology.
 
 While goal of OutLite is to make home automation less daunting and more accessible, it is still a very particular interest. It might be helpful to get useful results if we could find a way to expose our website to people who visit websites for products in the market, i.e., Belkin WeMo, Zuli. Alternatively, we can try the kickstarter to gather the audience. Even though we did not get the most desirable result, we believe this experience will grant us opportunity to improve our future projects, and actually future plans about OutLite.
+
+-David
