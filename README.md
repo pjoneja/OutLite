@@ -2,10 +2,10 @@ OutLite
 =====================
 
 Group Selfie.jpg
-From left to right: Name (Github User)
-Krishna Thiyagarajan (krisht)
-Ihsan Gunay (Ihsan2010)
-Pranav Joneja (pjoneja)
+From left to right: Name (Github User);
+Krishna Thiyagarajan (krisht);
+Ihsan Gunay (Ihsan2010);
+Pranav Joneja (pjoneja);
 David Kim (snopidist)
 
 This repo contains all the work we have done as a group. The Enclosure Design file is a SolidWorks mockup of what the OutLite’s physical form will look like. The ‘outlite site’ folder contains all the HTML/CSS/JavaScript required for our beta launch site: http://outlite.brace.io . The presentation folder consists of the slides and the script for our midterm presentation. And finally, the comparison matrix is an as-of-yet unreleased, internal document that is guiding our design process, helping us keep track of what our competitors offer and how our device matches up. 
