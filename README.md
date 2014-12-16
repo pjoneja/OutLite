@@ -92,3 +92,11 @@ We changed the layout of the site, making it easier for visitors to see the form
 It's Start Up week at NYU, and we plan to use the new/improved version of the beta site to get even more people signed up for the beta. More importantly, our first round of beta signups are mostly just our friends and they will be more inclined to be nice to us and are probably only interested in seeing what we're up to. We need random strangers who will reflect what the real market looks like.
 
 -Pranav
+
+Dec 16, 2014:
+===================
+Many things happenend. I first devised a survey to send to our email subscribers, which was discarded because it was inapporpriate to obtain "real data." Eventually, our e-mail to subscribers comprised three metrics, which were differentiated by the amount of the effort the audience needed to make. For example, first metric was simply clicking the link to our website, while third metric was to send an e-mail to us to manifest interest in our product.
+
+Unfortunately, we did not get what we wanted since we did not get anything for third metric. However, we believe this is largely due to nature of the audience have, thus it does not necessarily assure lack of viability of our product in the market. The audience was mostly consisted of Cooper students, half among them from our class. In order to see how our product would do, I believe it is essential to specifically target the customers who are interested in home automation system and/or novel technology.
+
+While goal of OutLite is to make home automation less daunting and more accessible, it is still a very particular interest. It might be helpful to get useful results if we could find a way to expose our website to people who visit websites for products in the market, i.e., Belkin WeMo, Zuli. Alternatively, we can try the kickstarter to gather the audience. Even though we did not get the most desirable result, we believe this experience will grant us opportunity to improve our future projects, and actually future plans about OutLite.
