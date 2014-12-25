@@ -107,3 +107,8 @@ Unfortunately, we did not get what we wanted since we did not get anything for t
 While goal of OutLite is to make home automation less daunting and more accessible, it is still a very particular interest. It might be helpful to get useful results if we could find a way to expose our website to people who visit websites for products in the market, i.e., Belkin WeMo, Zuli. Alternatively, we can try the kickstarter to gather the audience. Even though we did not get the most desirable result, we believe this experience will grant us opportunity to improve our future projects, and actually future plans about OutLite.
 
 -David
+
+Dec 25, 2014
+====================
+Link to our Kickstarter Draft page:
+https://www.kickstarter.com/projects/743235959/1860446062?token=f9c7f97d
